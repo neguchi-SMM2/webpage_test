@@ -3,5 +3,7 @@ body {
   }
 
 .text {
-    color: #123456
+    color: #123456;
+    font: "MINCHO FONT 1";
+    font-size: 18px;
 }
